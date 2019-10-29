@@ -5,7 +5,7 @@ Stats 1 probably has many mistakes, especially the question about medians (no id
 
 You should probably ignore answers for Signalling, I wasn't very serious with those
 
-I never answered the essay questions very seriously either
+I never answered any essay questions very seriously either, especially the more philosophical ones
 
 Most of the answers are probably more verbose than they have to be
 
