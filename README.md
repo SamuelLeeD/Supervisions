@@ -7,6 +7,6 @@ You should probably ignore answers for Signalling, I wasn't very serious with th
 
 I never answered any essay questions very seriously either, especially the more philosophical ones
 
-Most of the answers are probably more verbose than they have to be
+Most of the answers are probably more verbose than they have to be. I ramble quite a bit on many answers which was more for my own benefit
 
 Some of the earlier supervisions are different from the ones in Moodle cause they were questions sent by Mr K
