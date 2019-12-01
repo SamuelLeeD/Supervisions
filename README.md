@@ -1,4 +1,6 @@
 # Supervisions
+These are my flawed answers for the 2018 Part IIA Economics supervision questions. I don't have time to look over all of them to see which I got wrong, but you can e-mail me (CRSid sl839) to clarify answers and I may correct them if wrong.
+
 Answers for core papers in order of confidence: Metrics (mostly correct with some minor mistakes) > Macro (answers are mostly going in the right direction) > Micro (fair bit of careless mistakes, be very critical of what you read)
 
 Game Theory answers are incomplete and I remember many of them being wrong, and there are minor mistakes in some of the other papers (I just don't remember which). Plus the lecturer for Uncertainty is different so the whole Micro folder is probably useless (except maybe Game Theory 4).
