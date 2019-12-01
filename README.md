@@ -1,5 +1,5 @@
 # Supervisions
-These are my flawed answers for the 2018 Part IIA Economics supervision questions. I rarely did corrections back in year 2, and now I don't have time to look over all of them to see which I remember getting wrong, but you can e-mail me (CRSid sl839) to clarify answers and I may correct them if they're wrong. I also don't mind discussing stuff outside of these answers; I like to revisit old material.
+These are my flawed answers for the 2018 Part IIA Economics supervision questions. I rarely did corrections back in year 2, and now I don't have time to look over all of them to see which I remember getting wrong, but you can e-mail me (CRSid sl839) to clarify answers and I may correct them if they're wrong.
 
 To be clear, it doesn't matter to me what you do with these answers, except that you pass them along to anyone who might benefit.
 
