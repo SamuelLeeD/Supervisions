@@ -1,5 +1,5 @@
 # Supervisions
-These are my flawed answers for the 2018 Part IIA Economics supervision questions. I don't have time to look over all of them to see which I got wrong, but you can e-mail me (CRSid sl839) to clarify answers and I may correct them if wrong.
+These are my flawed answers for the 2018 Part IIA Economics supervision questions. I rarely did corrections back in year 2, and now I don't have time to look over all of them to see which I remember getting wrong, but you can e-mail me (CRSid sl839) to clarify answers and I may correct them if they're wrong. It doesn't matter to me what you do with these answers, except that you pass them along to anyone who might benefit.
 
 Answers for core papers in order of confidence: Metrics (mostly correct with some minor mistakes) > Macro (answers are mostly going in the right direction) > Micro (fair bit of careless mistakes, be very critical of what you read)
 
